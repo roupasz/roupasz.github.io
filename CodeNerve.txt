@@ -5,7 +5,7 @@ My favorite quote is, "<span id="k">"The true delight is in the finding out rath
 
 <p> At the moment I am working as a DevOps Engineer, planning and deploying infrastructure on-premise, in the cloud, and in hybrid situations! I have worked mainly in Insurance and Telecommunication companies as a Systems & Database Design Engineer.</p>
 
-<p> I'm always trying to combine creativity with engineering and develop different projects in order to gain more knowledge on trending technologies like Docker, Kubernetes and Automation Tools like Ansible and Puppet!<br />You can learn more about me and my projects in my <a href="#"> portfolio</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> I'm always trying to combine creativity with engineering and develop different projects in order to gain more knowledge on trending technologies like Docker, Kubernetes and Automation Tools like Ansible and Puppet!<!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
 <p> In my free time I play Bass Guitar and I like to attend live concerts of my favorite bands. I'm watching a lot of series and movies, reading Science Fiction Books and collecting all short of stuff from Board Games to Vinyls and Action Figures!</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
