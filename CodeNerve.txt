@@ -1,6 +1,6 @@
 <span id="a">zroupas@jumaru</span>:<span id="b">~</span><span id="c">$</span> cd zroupas/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">zroupas@jumaru</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->aboutme.txt<br/><br/>
-Hello World! I am Zois and this is my portflio website.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>
+Hello World! I am Zois Roupas.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>
 My favorite quote is, "<span id="k">The true delight is in the finding out rather than in the knowing.</span>". <!-- sjkfhskjf -->
 
 <p> At the moment I am working as a DevOps Engineer, planning and deploying infrastructure on-premise, in the cloud, and in hybrid situations! I have worked mainly in Insurance and Telecommunication companies as a Systems & Database Design Engineer.</p>
