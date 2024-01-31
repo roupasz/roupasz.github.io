@@ -2,6 +2,10 @@
 Terminal based portfolio website for CodeNerve
 
 ## Custom domains and GitHub Pages configuration
+
+At the moment this repo is accessible publicly via https://zoisroupas.dev.
+
+In order to configure this:
 - Order your dns name from your favorite registrar. In this case the domain is registered via https://porkbun.com
     - Create A records, point your apex domain to the IP addresses for GitHub Pages in https://porkbun.com/account/domainsSpeedy?fo=1&oid=5117993
         ```
