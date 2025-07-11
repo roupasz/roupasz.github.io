@@ -4,12 +4,11 @@ A terminal based portfolio theme forked from [CodeNerve](https://github.com/Code
 
 ## Customization
 
-Just [clone](https://github.com/roupasz/roupasz.github.io.git) or [download](https://github.com/roupasz/roupasz.github.io/archive/master.zip) this project
+Just [clone](https://github.com/roupasz/roupasz.github.io.git) or [download](https://github.com/roupasz/roupasz.github.io/archive/master.zip) this project.
 
+Update *CodeNerve.txt* adding your own content.
 
-[download this project](https://github.com/bencentra/centrarium/archive/master.zip) and add all the files to your project. Add your blog posts to the `posts/` directory, and create your pages with the proper Jekyll front matter (see `posts.html` for an example).
-
-You can customize 
+That's it!
 
 ## Configuring a custom domain for your GitHub Pages site
 
@@ -25,3 +24,7 @@ This involves setting A records in your DNS configuration pointing to GitHub’s
 185.199.111.153
 ```
 And optionally adding a CNAME record for www.example.com pointing to your GitHub Pages site.
+
+## License
+
+MIT. See [LICENSE.MD](https://github.com/CodeNerve/CodeNerve.github.io/blob/master/LICENSE.md).
