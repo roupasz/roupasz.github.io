@@ -11,7 +11,7 @@ My favorite quote is, "<span id="k">The true delight is in the finding out rathe
 
 <p> In my free time I play Bass Guitar and I like to attend live concerts of my favourite bands. I'm watching a lot of series and movies, reading science fiction books and collecting all short of stuff from board games to vinyls and action figures!</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
-<p> If you want, you can check my other profiles and connect, here: <br> <a href="https://www.linkedin.com/in/roupasz/" target="_blank">LinkedIn</a>, <br> <a href="https://github.com/roupasz" target="_blank">Github</a>, <br> <a href="https://www.instagram.com/paparoup_/?hl=en" target="_blank">Instagram</a> and <br> <a href="https://www.mixcloud.com/paparoup/" target="_blank">Instagram</a>.</p>
+<p> If you want, you can check my other profiles and connect, here: <br> <a href="https://www.linkedin.com/in/roupasz/" target="_blank">LinkedIn</a>, <br> <a href="https://github.com/roupasz" target="_blank">Github</a>, <br> <a href="https://www.instagram.com/paparoup_/?hl=en" target="_blank">Mixcloud</a> and <br> <a href="https://www.mixcloud.com/paparoup/" target="_blank">Instagram</a>.</p>
 
 If you want to contact me<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="roupasz@gmail.com">roupasz@gmail.com</a>.
 
